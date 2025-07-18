@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Rodolfo ALmeida! 👋</h1>
+<h1 align="center">Olá, eu sou o Rodolfo Almeida! 👋</h1>
 
 <p align="center">
   💻 Desenvolvedor em formação | 🎯 Explorando Backend, Front-end e Cloud | 🇧🇷 Brasil
