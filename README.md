@@ -67,9 +67,13 @@
 > 🎮 Atualmente, estou criando conteúdos que usam jogos para ensinar lógica e programação!
 
 ---
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rodoxson&theme=github)
+---
+
 
 ### ✨ Obrigado por visitar!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&background=000000FF&center=true&vCenter=true&width=435&lines=Let's+code+together!+%F0%9F%9A%80" />
 </p>
+
