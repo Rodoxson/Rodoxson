@@ -67,11 +67,6 @@
 > 🎮 Atualmente, estou criando conteúdos que usam jogos para ensinar lógica e programação!
 
 ---
-![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rodoxson&theme=github-compact)
-
-
----
-
 
 ### ✨ Obrigado por visitar!
 
